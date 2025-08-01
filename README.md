@@ -52,7 +52,7 @@ docker-compose --version
 #### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ronneycst/portifolio.git
 cd portfolio
 ```
 
@@ -80,7 +80,7 @@ http://localhost:8080
 #### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ronneycst/portifolio.git
 cd portfolio
 ```
 

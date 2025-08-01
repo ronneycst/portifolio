@@ -1,0 +1,10 @@
+2025-08-01 00:27:44.976 [http-nio-8080-exec-1] TRACE com.ronney.portfolio.controller.PessoaController - Iniciando criação de pessoa: João Silva
+2025-08-01 00:27:45.016 [http-nio-8080-exec-1] TRACE com.ronney.portfolio.service.PessoaService - Iniciando salvamento de pessoa: João Silva
+2025-08-01 00:27:45.080 [http-nio-8080-exec-1] TRACE com.ronney.portfolio.service.PessoaService - Pessoa salva com sucesso. ID: 1
+2025-08-01 00:27:45.092 [http-nio-8080-exec-1] TRACE com.ronney.portfolio.controller.PessoaController - Pessoa criada com sucesso. ID: 1
+2025-08-01 00:27:51.595 [http-nio-8080-exec-3] TRACE com.ronney.portfolio.service.PessoaService - Iniciando busca de pessoa por ID: 1
+2025-08-01 00:27:51.622 [http-nio-8080-exec-3] TRACE com.ronney.portfolio.service.PessoaService - Pessoa encontrada: João Silva
+2025-08-01 00:28:11.478 [http-nio-8080-exec-6] TRACE com.ronney.portfolio.controller.PessoaController - Iniciando busca de todas as pessoas
+2025-08-01 00:28:11.518 [http-nio-8080-exec-6] TRACE com.ronney.portfolio.service.PessoaService - Iniciando busca de todas as pessoas no banco de dados
+2025-08-01 00:28:11.597 [http-nio-8080-exec-6] TRACE com.ronney.portfolio.service.PessoaService - Consulta executada com sucesso. Encontradas 1 pessoas
+2025-08-01 00:28:11.631 [http-nio-8080-exec-6] TRACE com.ronney.portfolio.controller.PessoaController - Encontradas 1 pessoas

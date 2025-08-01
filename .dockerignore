@@ -1,0 +1,12 @@
+# Arquivos e diretórios que devem ser ignorados pelo Docker
+target/
+.git/
+.gitignore
+README.md
+*.md
+.idea/
+*.iml
+logs/
+*.log
+.DS_Store
+Thumbs.db 
